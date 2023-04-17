@@ -1,0 +1,1509 @@
+t=45
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.051046133041381836 (training time)
+Testing...
+65 correct out of 100 (65.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.051383018493652344 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.04940319061279297 (training time)
+Testing...
+73 correct out of 100 (73.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.050882816314697266 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.048182010650634766 (training time)
+Testing...
+75 correct out of 100 (75.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.04978680610656738 (training time)
+Testing...
+75 correct out of 100 (75.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.05039095878601074 (training time)
+Testing...
+73 correct out of 100 (73.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.05139899253845215 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.051271915435791016 (training time)
+Testing...
+73 correct out of 100 (73.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      45
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.050586700439453125 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+t = 90
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.0893402099609375 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.0871889591217041 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08377695083618164 (training time)
+Testing...
+71 correct out of 100 (71.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.09073424339294434 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08861207962036133 (training time)
+Testing...
+73 correct out of 100 (73.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.0829010009765625 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08579516410827637 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08869600296020508 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08371901512145996 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      90
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08663511276245117 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+t = 135
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.1251530647277832 (training time)
+Testing...
+84 correct out of 100 (84.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.12320923805236816 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.1276078224182129 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.1471090316772461 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.1287088394165039 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.12535691261291504 (training time)
+Testing...
+84 correct out of 100 (84.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.12250089645385742 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.12395596504211426 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.12413907051086426 (training time)
+Testing...
+84 correct out of 100 (84.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      135
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.12151288986206055 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+t = 180
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16262483596801758 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.1703329086303711 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.1649789810180664 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16617894172668457 (training time)
+Testing...
+90 correct out of 100 (90.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16033935546875 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16317367553710938 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.15931177139282227 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.17227697372436523 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.15972089767456055 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      180
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.17498421669006348 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+t = 225
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2046949863433838 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.21125507354736328 (training time)
+Testing...
+84 correct out of 100 (84.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.20188283920288086 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.20835375785827637 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2148289680480957 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2164919376373291 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.21661376953125 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2137143611907959 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.20594191551208496 (training time)
+Testing...
+84 correct out of 100 (84.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      225
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.20426511764526367 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+t  = 270
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.26615190505981445 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.24641895294189453 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2546992301940918 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.25540924072265625 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.26978302001953125 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2508969306945801 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2502477169036865 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2478039264678955 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2438657283782959 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      270
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.283344030380249 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+t = 315 
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2816169261932373 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3283679485321045 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2861318588256836 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.29705095291137695 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3880620002746582 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.33030104637145996 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2867600917816162 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3369910717010498 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.29995083808898926 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      315
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.28459906578063965 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+t = 360
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.328643798828125 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.32845616340637207 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.326718807220459 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3191039562225342 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.32433295249938965 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.31912779808044434 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.31617283821105957 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.31983494758605957 (training time)
+Testing...
+87 correct out of 100 (87.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.32051825523376465 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      360
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.32918715476989746 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+t = 405
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.36208581924438477 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.38126111030578613 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3599879741668701 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3604910373687744 (training time)
+Testing...
+85 correct out of 100 (85.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3832221031188965 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.36710500717163086 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.37627410888671875 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.37988901138305664 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.35683298110961914 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      405
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3681178092956543 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+t = 450
+1
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.43477320671081543 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+2
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3936879634857178 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+3
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.42087888717651367 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+4
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3961620330810547 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+5
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3851590156555176 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+6
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.44144487380981445 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+7
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.41193580627441406 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+8
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.41770291328430176 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+9
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.44116806983947754 (training time)
+Testing...
+89 correct out of 100 (89.0%).
+
+10
+Doing classification
+--------------------
+data:           faces
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      451
+Legal Labels: [0, 1]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.4107339382171631 (training time)
+Testing...
+89 correct out of 100 (89.0%).

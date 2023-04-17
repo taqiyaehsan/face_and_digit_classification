@@ -214,8 +214,10 @@ def readCommand( argv ):
     
   if(options.data=="digits"):
     legalLabels = list(range(10))
+    print(f"Legal Labels: {legalLabels}") 
   else:
     legalLabels = list(range(2))
+    print(f"Legal Labels: {legalLabels}") 
     
   if options.training <= 0:
     print("Training set size should be a positive integer (you provided: %d)" % options.training)
@@ -235,8 +237,6 @@ def readCommand( argv ):
 
   if(options.classifier == "mostFrequent"):
     classifier = mostFrequent.MostFrequentClassifier(legalLabels)
-  elif(options.classifier == "kNN" or options.classifier == "kNearestNeighbors"):
-    classifier = kNearestNeighbors.kNearestNeighborsClassifier(legalLabels)
   elif(options.classifier == "naiveBayes" or options.classifier == "nb"):
     classifier = naiveBayes.NaiveBayesClassifier(legalLabels)
     classifier.setSmoothing(options.smoothing)

@@ -1,0 +1,1489 @@
+t=500
+0
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.09137201309204102 (training time)
+Testing...
+74 correct out of 100 (74.0%).
+
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.09261393547058105 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08874011039733887 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08829283714294434 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.09027099609375 (training time)
+Testing...
+76 correct out of 100 (76.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08956170082092285 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.09372472763061523 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08903288841247559 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.08820819854736328 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.09255099296569824 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+t=1000
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16978096961975098 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.17949390411376953 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.17377114295959473 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16928505897521973 (training time)
+Testing...
+76 correct out of 100 (76.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.18140292167663574 (training time)
+Testing...
+82 correct out of 100 (82.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16532516479492188 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.17142987251281738 (training time)
+Testing...
+75 correct out of 100 (75.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.17304706573486328 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16906499862670898 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.16563200950622559 (training time)
+Testing...
+75 correct out of 100 (75.0%).
+
+t=1500
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2546229362487793 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.248060941696167 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.29036402702331543 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.24800801277160645 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.25417089462280273 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2556419372558594 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2515072822570801 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.2562999725341797 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.25687289237976074 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.259411096572876 (training time)
+Testing...
+75 correct out of 100 (75.0%).
+
+t=2000
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.34786486625671387 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.34081101417541504 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.330765962600708 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.32837605476379395 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.3281409740447998 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.323610782623291 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.42148303985595703 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.35596799850463867 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.33770179748535156 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+10
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.34407973289489746 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+t = 2500
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.41869688034057617 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.425443172454834 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.4205303192138672 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.44085097312927246 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.42751288414001465 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.4234499931335449 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.4057352542877197 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.41855502128601074 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.4026799201965332 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+10
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.42163610458374023 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+t=3000
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.49120116233825684 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5746219158172607 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.4858870506286621 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.49196505546569824 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5060772895812988 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.48946189880371094 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+8 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.4894840717315674 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5011930465698242 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+10
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.48841404914855957 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+t=3500
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7289137840270996 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5762889385223389 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.701134204864502 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5930240154266357 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5759382247924805 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6424880027770996 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5611109733581543 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5746312141418457 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6275129318237305 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+10
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.5863001346588135 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+t=4000
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7002918720245361 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7096810340881348 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6925780773162842 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6703040599822998 (training time)
+Testing...
+77 correct out of 100 (77.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.698807954788208 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6629440784454346 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6969091892242432 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7229781150817871 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6488120555877686 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+10
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.6554300785064697 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+t=4500
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.946608304977417 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7368831634521484 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7329978942871094 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7205219268798828 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7271239757537842 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7290308475494385 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.8879120349884033 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.8345189094543457 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7258539199829102 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+10
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.7406449317932129 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+t=5000
+1
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+1.0176620483398438 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+2
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.9316151142120361 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+3
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.873866081237793 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+4
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.9339649677276611 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+5
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.835996150970459 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+6
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.8411211967468262 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+7
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.8227231502532959 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+8
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.8345668315887451 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+9
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.8388538360595703 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+10
+Doing classification
+--------------------
+data:           digits
+classifier:             naiveBayes
+using enhanced features?:       False
+training set size:      5000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+using smoothing parameter k=1.000000 for naivebayes
+Extracting features...
+Training...
+0.8623991012573242 (training time)
+Testing...
+79 correct out of 100 (79.0%).
