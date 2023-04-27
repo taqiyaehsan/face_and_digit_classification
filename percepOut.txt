@@ -1,0 +1,468 @@
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	0
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Training set size should be a positive integer (you provided: 0)
+
+  USAGE:      python dataClassifier.py <options>
+  EXAMPLES:   (1) python dataClassifier.py
+                  - trains the default mostFrequent classifier on the digit dataset
+                  using the default 100 training examples and
+                  then test the classifier on test data
+              (2) python dataClassifier.py -c naiveBayes -d digits -t 1000 -f -o -1 3 -2 6 -k 2.5
+                  - would run the naive Bayes classifier on 1000 training examples
+                  using the enhancedFeatureExtractorDigits function to get the features
+                  on the faces dataset, would use the smoothing parameter equals to 2.5, would
+                  test the classifier on the test data and performs an odd ratio analysis
+                  with label1=3 vs. label2=6
+                 
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	0
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Training set size should be a positive integer (you provided: 0)
+
+  USAGE:      python dataClassifier.py <options>
+  EXAMPLES:   (1) python dataClassifier.py
+                  - trains the default mostFrequent classifier on the digit dataset
+                  using the default 100 training examples and
+                  then test the classifier on test data
+              (2) python dataClassifier.py -c naiveBayes -d digits -t 1000 -f -o -1 3 -2 6 -k 2.5
+                  - would run the naive Bayes classifier on 1000 training examples
+                  using the enhancedFeatureExtractorDigits function to get the features
+                  on the faces dataset, would use the smoothing parameter equals to 2.5, would
+                  test the classifier on the test data and performs an odd ratio analysis
+                  with label1=3 vs. label2=6
+                 
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	0
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Training set size should be a positive integer (you provided: 0)
+
+  USAGE:      python dataClassifier.py <options>
+  EXAMPLES:   (1) python dataClassifier.py
+                  - trains the default mostFrequent classifier on the digit dataset
+                  using the default 100 training examples and
+                  then test the classifier on test data
+              (2) python dataClassifier.py -c naiveBayes -d digits -t 1000 -f -o -1 3 -2 6 -k 2.5
+                  - would run the naive Bayes classifier on 1000 training examples
+                  using the enhancedFeatureExtractorDigits function to get the features
+                  on the faces dataset, would use the smoothing parameter equals to 2.5, would
+                  test the classifier on the test data and performs an odd ratio analysis
+                  with label1=3 vs. label2=6
+                 
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+5.184266090393066 (training time)
+Testing...
+64 correct out of 100 (64.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+5.382884502410889 (training time)
+Testing...
+63 correct out of 100 (63.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+6.010746955871582 (training time)
+Testing...
+71 correct out of 100 (71.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+12.251669645309448 (training time)
+Testing...
+69 correct out of 100 (69.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+12.060908317565918 (training time)
+Testing...
+84 correct out of 100 (84.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+12.902767658233643 (training time)
+Testing...
+74 correct out of 100 (74.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+17.608376026153564 (training time)
+Testing...
+71 correct out of 100 (71.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+18.087580680847168 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+18.190805435180664 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+25.640400171279907 (training time)
+Testing...
+78 correct out of 100 (78.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+28.840869665145874 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+28.302248239517212 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+41.015026807785034 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+44.925358057022095 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+34.87238335609436 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+44.62069368362427 (training time)
+Testing...
+80 correct out of 100 (80.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+38.48211884498596 (training time)
+Testing...
+75 correct out of 100 (75.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+37.34390687942505 (training time)
+Testing...
+79 correct out of 100 (79.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+44.64505887031555 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+45.350975036621094 (training time)
+Testing...
+75 correct out of 100 (75.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+46.873074769973755 (training time)
+Testing...
+86 correct out of 100 (86.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+48.85878944396973 (training time)
+Testing...
+70 correct out of 100 (70.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+51.79618835449219 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4000
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+48.70143532752991 (training time)
+Testing...
+88 correct out of 100 (88.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+51.32365798950195 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+54.96700167655945 (training time)
+Testing...
+83 correct out of 100 (83.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4500
+Legal Labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Extracting features...
+Training...
+Starting iteration  0 ...
+Starting iteration  1 ...
+51.30058240890503 (training time)
+Testing...
+81 correct out of 100 (81.0%).
+

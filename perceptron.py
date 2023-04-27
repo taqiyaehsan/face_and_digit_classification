@@ -49,7 +49,14 @@ class PerceptronClassifier:
       print ("Starting iteration ", iteration, "...")
       for i in range(len(trainingData)):
           "*** YOUR CODE HERE ***"
-          util.raiseNotDefined()
+          currGuess = self.classify([trainingData[i]])[0] #classify takes a list of datums
+
+          # if the guess is wrong,we would then modify the weight matrix
+          if currGuess != trainingLabels[i]:
+              self.weights[trainingLabels[i]] += trainingData[i]
+              self.weights[currGuess] -= trainingData[i]
+
+    # print(self.weights)
     
   def classify(self, data ):
     """
