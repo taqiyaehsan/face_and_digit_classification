@@ -126,6 +126,10 @@ class NaiveBayesClassifier(classificationMethod.ClassificationMethod):
       posterior = self.calculateLogJointProbabilities(datum)
       guesses.append(posterior.argMax())
       self.posteriors.append(posterior)
+    
+    # for faces: 0 --> not face and 1 --> face
+    print(f'Predicted label: {guesses[0]}') 
+    
     return guesses
       
   def calculateLogJointProbabilities(self, datum):
