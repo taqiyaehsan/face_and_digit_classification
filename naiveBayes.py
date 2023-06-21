@@ -63,7 +63,7 @@ class NaiveBayesClassifier(classificationMethod.ClassificationMethod):
     Evaluate each value of k in kgrid to choose the smoothing parameter 
     that gives the best accuracy on the held-out validationData.
     
-    trainingData and validationData are lists of feature Counters.  The corresponding
+    trainingData and validationData are lists of feature Counters. The corresponding
     label lists contain the correct label for each datum.
     
     To get the list of all possible features or labels, use self.features and 
@@ -126,7 +126,7 @@ class NaiveBayesClassifier(classificationMethod.ClassificationMethod):
       posterior = self.calculateLogJointProbabilities(datum)
       guesses.append(posterior.argMax())
       self.posteriors.append(posterior)
-    
+
     # for faces: 0 --> not face and 1 --> face
     print(f'Predicted label: {guesses[0]}') 
     
